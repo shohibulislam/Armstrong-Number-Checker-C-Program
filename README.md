@@ -12,4 +12,3 @@ This is a simple C program that checks whether a given **three-digit number** is
 
 ### Requirements
 - C Compiler (e.g., GCC)
-- math.h library (standard with most C environments)
